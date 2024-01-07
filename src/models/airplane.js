@@ -40,3 +40,5 @@ module.exports = (sequelize, DataTypes) => {
   });
   return Airplane;
 };
+
+/* INFORMATION_SCHEMA. This table contains information about columns that are part of table constraints, including primary key and foreign key constraints.*/
