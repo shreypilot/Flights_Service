@@ -1,4 +1,12 @@
+# Ignore node_modules directory
 node_modules/
+
+# Ignore .env file
 .env
+
+# Ignore combined.log file
 combined.log
+
+# Ignore src/config/config.json file
 src/config/config.json
+
